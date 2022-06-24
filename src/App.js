@@ -1,6 +1,7 @@
 
 import Navbar from './Navbar';
 import Home from './Home'
+
 import { Bar } from 'react-chartjs-2';
 
 
